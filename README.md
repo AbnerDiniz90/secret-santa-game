@@ -1,7 +1,7 @@
 # Secret Santa
 
 <p>
-  [Badge Concluído](https://img.shields.io/badge/Status-Completed-green)
+  <img src="https://img.shields.io/badge/Status-Completed-green"/>
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/>
   <img src="https://img.shields.io/badge/JavaScript-EBCD34"/>
   <img src="https://img.shields.io/badge/HTML-8A2BE2"/>
