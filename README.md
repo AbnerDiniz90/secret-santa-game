@@ -1,8 +1,11 @@
 # Secret Santa
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=STATUS&message=IN%20DEVELOPMENT&color=GREEN&style=for-the-badge" alt="Project Status"/>
+  
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/>
+  <img src="https://img.shields.io/badge/JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML"/>
+  <img src="https://img.shields.io/badge/CSS"/>
 </p>
 
 A fun and simple web application that helps you organize a Secret Santa event. With this project, you can add the names of your friends, view the complete list, and perform a random draw to determine who will be each other's Secret Santa.
