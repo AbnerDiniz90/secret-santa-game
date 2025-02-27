@@ -1,6 +1,6 @@
 # Secret Santa
 
-<p align="center">
+<p>
   
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/>
   <img src="https://img.shields.io/badge/JavaScript-EBCD34"/>
@@ -23,6 +23,6 @@ The Secret Santa application is built using HTML, CSS, and JavaScript. It offers
 
 ## Built With
 
-- **HTML:** Structures the web page.
-- **CSS:** Provides the styling and responsive design.
-- **JavaScript:** Implements the core functionality such as adding names and performing the random draw.
+- `HTML:` Structures the web page.
+- `CSS:` Provides the styling and responsive design.
+- `JavaScript:` Implements the core functionality such as adding names and performing the random draw.
