@@ -7,7 +7,7 @@
 
 ## About the Project
 
-The Secret Santa application is built using HTML, CSS, and JavaScript. It offers a user-friendly interface where you can add friend names and conduct a random draw for a Secret Santa gift exchange. The goal is to make your holiday gift exchange fun and hassle-free!
+The Secret Santa application is built using HTML, CSS, and JavaScript. It offers a user-friendly interface where you can add friend names and conduct a random draw for a Secret Santa gift exchange. 
 
 ## :hammer: Features
 
